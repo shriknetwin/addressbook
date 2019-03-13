@@ -6,13 +6,11 @@ Addressbook test
 *******************
 how to Setup
 *******************
-1. Create new database using sql file in ripo root
+1. Create new database using sql file in repo root "addressbook.sql"
 
-2. change config file values from application/config/config.php
-base_url
+2. change config file values from application/config/config.php "base_url"
 
-3. change site config value from application/config/site_config.php
-ASSESTS_PATH
+3. change site config value from application/config/site_config.php "ASSESTS_PATH"
 
 4. change database details from application/config/database.php
 
